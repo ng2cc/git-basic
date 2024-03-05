@@ -2,7 +2,11 @@ team: real
 
 manager: zidane
 
+<<<<<<< HEAD
 coach: ng2c
+=======
+coach: baniota
+>>>>>>> conflict-3
 members:
 - bellingham
 - vinicius
