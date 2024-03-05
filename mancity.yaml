@@ -1,6 +1,10 @@
 team: mancity
 
+<<<<<<< HEAD
 manager: klopp
+=======
+manager: namgung
+>>>>>>> conflict-1
 
 members:
 - Holland
